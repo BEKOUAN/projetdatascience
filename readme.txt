@@ -1,0 +1,2 @@
+Ce projet vise à développer un système d'analyse des sentiments à partir des publications sur les réseaux sociaux. 
+Grâce à des techniques de traitement du langage naturel, le système vise à identifier et catégoriser automatiquement les sentiments exprimés dans le contenu des réseaux sociaux.

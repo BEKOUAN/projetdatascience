@@ -1,0 +1,11 @@
+Liste des bibliothèque du projet
+-------------------------------
+
+numpy 
+pandas 
+matplotlib
+plotly
+sklearn
+sklearn
+pickle
+streamlit
